@@ -28,7 +28,7 @@ class Validator
      *
      * @var string
      */
-    const NAME_SUFFIX = 'Custom';
+    const NAME_SUFFIX = '';
 
     /**
      * Array containing all PHP keywords.
